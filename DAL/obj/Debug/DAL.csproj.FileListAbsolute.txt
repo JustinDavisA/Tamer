@@ -1,0 +1,45 @@
+c:\Users\onshorebootcamper\documents\visual studio 2013\Projects\Tamer\DAL\bin\Debug\DAL.dll
+c:\Users\onshorebootcamper\documents\visual studio 2013\Projects\Tamer\DAL\bin\Debug\DAL.pdb
+c:\Users\onshorebootcamper\documents\visual studio 2013\Projects\Tamer\DAL\obj\Debug\DAL.dll
+c:\Users\onshorebootcamper\documents\visual studio 2013\Projects\Tamer\DAL\obj\Debug\DAL.pdb
+D:\Tamer\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\Tamer\DAL\obj\Debug\DAL.dll
+D:\Tamer\DAL\obj\Debug\DAL.pdb
+D:\Tamer\DAL\bin\Debug\DAL.dll
+D:\Tamer\DAL\bin\Debug\DAL.pdb
+D:\Tamer\DAL\bin\Debug\ApplicationLogger.dll
+D:\Tamer\DAL\bin\Debug\ApplicationLogger.pdb
+E:\Tamer\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+E:\Tamer\DAL\obj\Debug\DAL.dll
+E:\Tamer\DAL\bin\Debug\DAL.dll
+E:\Tamer\DAL\bin\Debug\DAL.pdb
+E:\Tamer\DAL\bin\Debug\ApplicationLogger.dll
+E:\Tamer\DAL\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\Tamer\DAL\bin\Debug\Ninject.dll
+E:\Tamer\DAL\bin\Debug\Ninject.Web.Common.dll
+E:\Tamer\DAL\bin\Debug\Ninject.Web.Mvc.dll
+E:\Tamer\DAL\bin\Debug\Rhino.Mocks.dll
+E:\Tamer\DAL\bin\Debug\WebActivatorEx.dll
+E:\Tamer\DAL\bin\Debug\ApplicationLogger.pdb
+E:\Tamer\DAL\bin\Debug\Ninject.xml
+E:\Tamer\DAL\bin\Debug\Ninject.Web.Common.xml
+E:\Tamer\DAL\bin\Debug\Ninject.Web.Mvc.xml
+E:\Tamer\DAL\bin\Debug\Rhino.Mocks.xml
+E:\Tamer\DAL\obj\Debug\DAL.pdb
+C:\Users\OnshoreBootcamper\Desktop\Tamer\DAL\bin\Debug\DAL.dll
+C:\Users\OnshoreBootcamper\Desktop\Tamer\DAL\bin\Debug\DAL.pdb
+C:\Users\OnshoreBootcamper\Desktop\Tamer\DAL\bin\Debug\ApplicationLogger.dll
+C:\Users\OnshoreBootcamper\Desktop\Tamer\DAL\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\OnshoreBootcamper\Desktop\Tamer\DAL\bin\Debug\Ninject.dll
+C:\Users\OnshoreBootcamper\Desktop\Tamer\DAL\bin\Debug\Ninject.Web.Common.dll
+C:\Users\OnshoreBootcamper\Desktop\Tamer\DAL\bin\Debug\Ninject.Web.Mvc.dll
+C:\Users\OnshoreBootcamper\Desktop\Tamer\DAL\bin\Debug\Rhino.Mocks.dll
+C:\Users\OnshoreBootcamper\Desktop\Tamer\DAL\bin\Debug\WebActivatorEx.dll
+C:\Users\OnshoreBootcamper\Desktop\Tamer\DAL\bin\Debug\ApplicationLogger.pdb
+C:\Users\OnshoreBootcamper\Desktop\Tamer\DAL\bin\Debug\Ninject.xml
+C:\Users\OnshoreBootcamper\Desktop\Tamer\DAL\bin\Debug\Ninject.Web.Common.xml
+C:\Users\OnshoreBootcamper\Desktop\Tamer\DAL\bin\Debug\Ninject.Web.Mvc.xml
+C:\Users\OnshoreBootcamper\Desktop\Tamer\DAL\bin\Debug\Rhino.Mocks.xml
+C:\Users\OnshoreBootcamper\Desktop\Tamer\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\OnshoreBootcamper\Desktop\Tamer\DAL\obj\Debug\DAL.dll
+C:\Users\OnshoreBootcamper\Desktop\Tamer\DAL\obj\Debug\DAL.pdb
