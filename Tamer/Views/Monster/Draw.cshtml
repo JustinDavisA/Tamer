@@ -1,0 +1,19 @@
+﻿@model Tamer.Models.MonsterViewModel
+
+@if (Session["LoggedIn"] == null)
+{
+    Response.Redirect("~/User/AccessDenied");
+}
+
+@{
+    ViewBag.Title = "Draw";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1 class="center">Draw!</h1>
+
+<h3 class="center"> Your monsters have defeated eachother! There was no definitive winner!</h3>
+
+<div class="center">
+    @Html.ActionLink("Back to List", "Index")
+</div>

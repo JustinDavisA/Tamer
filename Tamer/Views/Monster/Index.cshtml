@@ -1,0 +1,68 @@
+﻿@model IEnumerable<Tamer.Models.MonsterViewModel>
+
+@if (Session["LoggedIn"] == null)
+{
+    Response.Redirect("~/User/AccessDenied");
+}
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Index</h2>
+@if ((string)Session["Role"] != "User")
+{
+    <p>
+        @Html.ActionLink("Create New", "Create")
+    </p>
+}
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.MonsterName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Health)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.AttackName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.AttackDamage)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.MonsterName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Health)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.AttackName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.AttackDamage)
+            </td>
+            <td>
+                @Html.ActionLink("Details", "Details", new { id = item.Id }) |
+                @if ((string)Session["Role"] != "User")
+                {
+                    @Html.ActionLink("Edit", "Edit", new { id = item.Id }) @: |
+                    @Html.ActionLink("Delete", "Delete", new { id = item.Id })
+                }
+            </td>
+        </tr>
+    }
+</table>
+
+<div class="col-md-4 center">
+    <h2>Battle Simulator</h2>
+    <p>Here you can select two monsters and start a battle simulation to find the stronger of the two. Who will bw the victor?</p>
+    <p><a class="btn btn-default" href="/Monster/Compare">Begin Simulation &raquo;</a></p>
+</div>
