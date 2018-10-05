@@ -1,0 +1,256 @@
+c:\users\onshorebootcamper\documents\visual studio 2013\Projects\Tamer\Tamer\bin\Tamer.dll.config
+c:\users\onshorebootcamper\documents\visual studio 2013\Projects\Tamer\Tamer\bin\Tamer.dll
+c:\users\onshorebootcamper\documents\visual studio 2013\Projects\Tamer\Tamer\bin\Tamer.pdb
+c:\users\onshorebootcamper\documents\visual studio 2013\Projects\Tamer\Tamer\bin\Antlr3.Runtime.dll
+c:\users\onshorebootcamper\documents\visual studio 2013\Projects\Tamer\Tamer\bin\EntityFramework.dll
+c:\users\onshorebootcamper\documents\visual studio 2013\Projects\Tamer\Tamer\bin\EntityFramework.SqlServer.dll
+c:\users\onshorebootcamper\documents\visual studio 2013\Projects\Tamer\Tamer\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\onshorebootcamper\documents\visual studio 2013\Projects\Tamer\Tamer\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\onshorebootcamper\documents\visual studio 2013\Projects\Tamer\Tamer\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\onshorebootcamper\documents\visual studio 2013\Projects\Tamer\Tamer\bin\Microsoft.Owin.dll
+c:\users\onshorebootcamper\documents\visual studio 2013\Projects\Tamer\Tamer\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\onshorebootcamper\documents\visual studio 2013\Projects\Tamer\Tamer\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\onshorebootcamper\documents\visual studio 2013\Projects\Tamer\Tamer\bin\Microsoft.Owin.Security.dll
+c:\users\onshorebootcamper\documents\visual studio 2013\Projects\Tamer\Tamer\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\onshorebootcamper\documents\visual studio 2013\Projects\Tamer\Tamer\bin\Microsoft.Owin.Security.Google.dll
+c:\users\onshorebootcamper\documents\visual studio 2013\Projects\Tamer\Tamer\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\onshorebootcamper\documents\visual studio 2013\Projects\Tamer\Tamer\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\onshorebootcamper\documents\visual studio 2013\Projects\Tamer\Tamer\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\onshorebootcamper\documents\visual studio 2013\Projects\Tamer\Tamer\bin\Microsoft.Web.Infrastructure.dll
+c:\users\onshorebootcamper\documents\visual studio 2013\Projects\Tamer\Tamer\bin\Newtonsoft.Json.dll
+c:\users\onshorebootcamper\documents\visual studio 2013\Projects\Tamer\Tamer\bin\Owin.dll
+c:\users\onshorebootcamper\documents\visual studio 2013\Projects\Tamer\Tamer\bin\System.Web.Helpers.dll
+c:\users\onshorebootcamper\documents\visual studio 2013\Projects\Tamer\Tamer\bin\System.Web.Mvc.dll
+c:\users\onshorebootcamper\documents\visual studio 2013\Projects\Tamer\Tamer\bin\System.Web.Optimization.dll
+c:\users\onshorebootcamper\documents\visual studio 2013\Projects\Tamer\Tamer\bin\System.Web.Razor.dll
+c:\users\onshorebootcamper\documents\visual studio 2013\Projects\Tamer\Tamer\bin\System.Web.WebPages.Deployment.dll
+c:\users\onshorebootcamper\documents\visual studio 2013\Projects\Tamer\Tamer\bin\System.Web.WebPages.dll
+c:\users\onshorebootcamper\documents\visual studio 2013\Projects\Tamer\Tamer\bin\System.Web.WebPages.Razor.dll
+c:\users\onshorebootcamper\documents\visual studio 2013\Projects\Tamer\Tamer\bin\WebGrease.dll
+c:\users\onshorebootcamper\documents\visual studio 2013\Projects\Tamer\Tamer\bin\System.Web.Helpers.xml
+c:\users\onshorebootcamper\documents\visual studio 2013\Projects\Tamer\Tamer\bin\System.Web.Mvc.xml
+c:\users\onshorebootcamper\documents\visual studio 2013\Projects\Tamer\Tamer\bin\System.Web.Optimization.xml
+c:\users\onshorebootcamper\documents\visual studio 2013\Projects\Tamer\Tamer\bin\System.Web.Razor.xml
+c:\users\onshorebootcamper\documents\visual studio 2013\Projects\Tamer\Tamer\bin\System.Web.WebPages.xml
+c:\users\onshorebootcamper\documents\visual studio 2013\Projects\Tamer\Tamer\bin\System.Web.WebPages.Deployment.xml
+c:\users\onshorebootcamper\documents\visual studio 2013\Projects\Tamer\Tamer\bin\System.Web.WebPages.Razor.xml
+c:\users\onshorebootcamper\documents\visual studio 2013\Projects\Tamer\Tamer\bin\Antlr3.Runtime.pdb
+c:\users\onshorebootcamper\documents\visual studio 2013\Projects\Tamer\Tamer\bin\Newtonsoft.Json.xml
+c:\users\onshorebootcamper\documents\visual studio 2013\Projects\Tamer\Tamer\bin\EntityFramework.xml
+c:\users\onshorebootcamper\documents\visual studio 2013\Projects\Tamer\Tamer\bin\EntityFramework.SqlServer.xml
+c:\users\onshorebootcamper\documents\visual studio 2013\Projects\Tamer\Tamer\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\onshorebootcamper\documents\visual studio 2013\Projects\Tamer\Tamer\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\onshorebootcamper\documents\visual studio 2013\Projects\Tamer\Tamer\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\onshorebootcamper\documents\visual studio 2013\Projects\Tamer\Tamer\bin\Microsoft.Owin.xml
+c:\users\onshorebootcamper\documents\visual studio 2013\Projects\Tamer\Tamer\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\onshorebootcamper\documents\visual studio 2013\Projects\Tamer\Tamer\bin\Microsoft.Owin.Security.xml
+c:\users\onshorebootcamper\documents\visual studio 2013\Projects\Tamer\Tamer\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\onshorebootcamper\documents\visual studio 2013\Projects\Tamer\Tamer\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\onshorebootcamper\documents\visual studio 2013\Projects\Tamer\Tamer\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\onshorebootcamper\documents\visual studio 2013\Projects\Tamer\Tamer\bin\Microsoft.Owin.Security.Google.xml
+c:\users\onshorebootcamper\documents\visual studio 2013\Projects\Tamer\Tamer\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\onshorebootcamper\documents\visual studio 2013\Projects\Tamer\Tamer\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\onshorebootcamper\documents\visual studio 2013\Projects\Tamer\Tamer\obj\Debug\Tamer.csprojResolveAssemblyReference.cache
+c:\users\onshorebootcamper\documents\visual studio 2013\Projects\Tamer\Tamer\obj\Debug\Tamer.dll
+c:\users\onshorebootcamper\documents\visual studio 2013\Projects\Tamer\Tamer\obj\Debug\Tamer.pdb
+D:\Tamer\Tamer\obj\Debug\Tamer.csprojResolveAssemblyReference.cache
+D:\Tamer\Tamer\obj\Debug\Tamer.dll
+D:\Tamer\Tamer\obj\Debug\Tamer.pdb
+D:\Tamer\Tamer\bin\Tamer.dll.config
+D:\Tamer\Tamer\bin\Tamer.dll
+D:\Tamer\Tamer\bin\Tamer.pdb
+D:\Tamer\Tamer\bin\Antlr3.Runtime.dll
+D:\Tamer\Tamer\bin\BLL.dll
+D:\Tamer\Tamer\bin\DAL.dll
+D:\Tamer\Tamer\bin\EntityFramework.dll
+D:\Tamer\Tamer\bin\EntityFramework.SqlServer.dll
+D:\Tamer\Tamer\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Tamer\Tamer\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Tamer\Tamer\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Tamer\Tamer\bin\Microsoft.Owin.dll
+D:\Tamer\Tamer\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Tamer\Tamer\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Tamer\Tamer\bin\Microsoft.Owin.Security.dll
+D:\Tamer\Tamer\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Tamer\Tamer\bin\Microsoft.Owin.Security.Google.dll
+D:\Tamer\Tamer\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Tamer\Tamer\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Tamer\Tamer\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Tamer\Tamer\bin\Microsoft.Web.Infrastructure.dll
+D:\Tamer\Tamer\bin\Newtonsoft.Json.dll
+D:\Tamer\Tamer\bin\Owin.dll
+D:\Tamer\Tamer\bin\System.Web.Helpers.dll
+D:\Tamer\Tamer\bin\System.Web.Mvc.dll
+D:\Tamer\Tamer\bin\System.Web.Optimization.dll
+D:\Tamer\Tamer\bin\System.Web.Razor.dll
+D:\Tamer\Tamer\bin\System.Web.WebPages.Deployment.dll
+D:\Tamer\Tamer\bin\System.Web.WebPages.dll
+D:\Tamer\Tamer\bin\System.Web.WebPages.Razor.dll
+D:\Tamer\Tamer\bin\WebGrease.dll
+D:\Tamer\Tamer\bin\ApplicationLogger.dll
+D:\Tamer\Tamer\bin\BLL.pdb
+D:\Tamer\Tamer\bin\DAL.pdb
+D:\Tamer\Tamer\bin\System.Web.Helpers.xml
+D:\Tamer\Tamer\bin\System.Web.Mvc.xml
+D:\Tamer\Tamer\bin\System.Web.Optimization.xml
+D:\Tamer\Tamer\bin\System.Web.Razor.xml
+D:\Tamer\Tamer\bin\System.Web.WebPages.xml
+D:\Tamer\Tamer\bin\System.Web.WebPages.Deployment.xml
+D:\Tamer\Tamer\bin\System.Web.WebPages.Razor.xml
+D:\Tamer\Tamer\bin\Antlr3.Runtime.pdb
+D:\Tamer\Tamer\bin\Newtonsoft.Json.xml
+D:\Tamer\Tamer\bin\EntityFramework.xml
+D:\Tamer\Tamer\bin\EntityFramework.SqlServer.xml
+D:\Tamer\Tamer\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Tamer\Tamer\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Tamer\Tamer\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Tamer\Tamer\bin\Microsoft.Owin.xml
+D:\Tamer\Tamer\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Tamer\Tamer\bin\Microsoft.Owin.Security.xml
+D:\Tamer\Tamer\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Tamer\Tamer\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Tamer\Tamer\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Tamer\Tamer\bin\Microsoft.Owin.Security.Google.xml
+D:\Tamer\Tamer\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Tamer\Tamer\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Tamer\Tamer\bin\ApplicationLogger.pdb
+E:\Tamer\Tamer\bin\Tamer.dll.config
+E:\Tamer\Tamer\bin\Tamer.dll
+E:\Tamer\Tamer\bin\Tamer.pdb
+E:\Tamer\Tamer\bin\Antlr3.Runtime.dll
+E:\Tamer\Tamer\bin\ApplicationLogger.dll
+E:\Tamer\Tamer\bin\BLL.dll
+E:\Tamer\Tamer\bin\DAL.dll
+E:\Tamer\Tamer\bin\EntityFramework.dll
+E:\Tamer\Tamer\bin\EntityFramework.SqlServer.dll
+E:\Tamer\Tamer\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Tamer\Tamer\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Tamer\Tamer\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Tamer\Tamer\bin\Microsoft.Owin.dll
+E:\Tamer\Tamer\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Tamer\Tamer\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Tamer\Tamer\bin\Microsoft.Owin.Security.dll
+E:\Tamer\Tamer\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Tamer\Tamer\bin\Microsoft.Owin.Security.Google.dll
+E:\Tamer\Tamer\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Tamer\Tamer\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Tamer\Tamer\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Tamer\Tamer\bin\Microsoft.Web.Infrastructure.dll
+E:\Tamer\Tamer\bin\Newtonsoft.Json.dll
+E:\Tamer\Tamer\bin\Owin.dll
+E:\Tamer\Tamer\bin\System.Web.Helpers.dll
+E:\Tamer\Tamer\bin\System.Web.Mvc.dll
+E:\Tamer\Tamer\bin\System.Web.Optimization.dll
+E:\Tamer\Tamer\bin\System.Web.Razor.dll
+E:\Tamer\Tamer\bin\System.Web.WebPages.Deployment.dll
+E:\Tamer\Tamer\bin\System.Web.WebPages.dll
+E:\Tamer\Tamer\bin\System.Web.WebPages.Razor.dll
+E:\Tamer\Tamer\bin\WebGrease.dll
+E:\Tamer\Tamer\bin\ApplicationLogger.pdb
+E:\Tamer\Tamer\bin\BLL.pdb
+E:\Tamer\Tamer\bin\DAL.pdb
+E:\Tamer\Tamer\bin\System.Web.Helpers.xml
+E:\Tamer\Tamer\bin\System.Web.Mvc.xml
+E:\Tamer\Tamer\bin\System.Web.Optimization.xml
+E:\Tamer\Tamer\bin\System.Web.Razor.xml
+E:\Tamer\Tamer\bin\System.Web.WebPages.xml
+E:\Tamer\Tamer\bin\System.Web.WebPages.Deployment.xml
+E:\Tamer\Tamer\bin\System.Web.WebPages.Razor.xml
+E:\Tamer\Tamer\bin\Antlr3.Runtime.pdb
+E:\Tamer\Tamer\bin\Newtonsoft.Json.xml
+E:\Tamer\Tamer\bin\EntityFramework.xml
+E:\Tamer\Tamer\bin\EntityFramework.SqlServer.xml
+E:\Tamer\Tamer\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Tamer\Tamer\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Tamer\Tamer\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Tamer\Tamer\bin\Microsoft.Owin.xml
+E:\Tamer\Tamer\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Tamer\Tamer\bin\Microsoft.Owin.Security.xml
+E:\Tamer\Tamer\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Tamer\Tamer\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Tamer\Tamer\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Tamer\Tamer\bin\Microsoft.Owin.Security.Google.xml
+E:\Tamer\Tamer\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Tamer\Tamer\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Tamer\Tamer\obj\Debug\Tamer.csprojResolveAssemblyReference.cache
+E:\Tamer\Tamer\obj\Debug\Tamer.dll
+E:\Tamer\Tamer\obj\Debug\Tamer.pdb
+E:\Tamer\Tamer\bin\Ninject.dll
+E:\Tamer\Tamer\bin\Ninject.Web.Common.dll
+E:\Tamer\Tamer\bin\Ninject.Web.Mvc.dll
+E:\Tamer\Tamer\bin\Rhino.Mocks.dll
+E:\Tamer\Tamer\bin\WebActivatorEx.dll
+E:\Tamer\Tamer\bin\Ninject.xml
+E:\Tamer\Tamer\bin\Ninject.Web.Common.xml
+E:\Tamer\Tamer\bin\Ninject.Web.Mvc.xml
+E:\Tamer\Tamer\bin\Rhino.Mocks.xml
+C:\Users\OnshoreBootcamper\Desktop\Tamer\Tamer\bin\Tamer.dll.config
+C:\Users\OnshoreBootcamper\Desktop\Tamer\Tamer\bin\Tamer.dll
+C:\Users\OnshoreBootcamper\Desktop\Tamer\Tamer\bin\Tamer.pdb
+C:\Users\OnshoreBootcamper\Desktop\Tamer\Tamer\bin\Antlr3.Runtime.dll
+C:\Users\OnshoreBootcamper\Desktop\Tamer\Tamer\bin\ApplicationLogger.dll
+C:\Users\OnshoreBootcamper\Desktop\Tamer\Tamer\bin\BLL.dll
+C:\Users\OnshoreBootcamper\Desktop\Tamer\Tamer\bin\DAL.dll
+C:\Users\OnshoreBootcamper\Desktop\Tamer\Tamer\bin\EntityFramework.dll
+C:\Users\OnshoreBootcamper\Desktop\Tamer\Tamer\bin\EntityFramework.SqlServer.dll
+C:\Users\OnshoreBootcamper\Desktop\Tamer\Tamer\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\OnshoreBootcamper\Desktop\Tamer\Tamer\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\OnshoreBootcamper\Desktop\Tamer\Tamer\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\OnshoreBootcamper\Desktop\Tamer\Tamer\bin\Microsoft.Owin.dll
+C:\Users\OnshoreBootcamper\Desktop\Tamer\Tamer\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\OnshoreBootcamper\Desktop\Tamer\Tamer\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\OnshoreBootcamper\Desktop\Tamer\Tamer\bin\Microsoft.Owin.Security.dll
+C:\Users\OnshoreBootcamper\Desktop\Tamer\Tamer\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\OnshoreBootcamper\Desktop\Tamer\Tamer\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\OnshoreBootcamper\Desktop\Tamer\Tamer\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\OnshoreBootcamper\Desktop\Tamer\Tamer\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\OnshoreBootcamper\Desktop\Tamer\Tamer\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\OnshoreBootcamper\Desktop\Tamer\Tamer\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\OnshoreBootcamper\Desktop\Tamer\Tamer\bin\Newtonsoft.Json.dll
+C:\Users\OnshoreBootcamper\Desktop\Tamer\Tamer\bin\Ninject.dll
+C:\Users\OnshoreBootcamper\Desktop\Tamer\Tamer\bin\Ninject.Web.Common.dll
+C:\Users\OnshoreBootcamper\Desktop\Tamer\Tamer\bin\Ninject.Web.Mvc.dll
+C:\Users\OnshoreBootcamper\Desktop\Tamer\Tamer\bin\Owin.dll
+C:\Users\OnshoreBootcamper\Desktop\Tamer\Tamer\bin\Rhino.Mocks.dll
+C:\Users\OnshoreBootcamper\Desktop\Tamer\Tamer\bin\System.Web.Helpers.dll
+C:\Users\OnshoreBootcamper\Desktop\Tamer\Tamer\bin\System.Web.Mvc.dll
+C:\Users\OnshoreBootcamper\Desktop\Tamer\Tamer\bin\System.Web.Optimization.dll
+C:\Users\OnshoreBootcamper\Desktop\Tamer\Tamer\bin\System.Web.Razor.dll
+C:\Users\OnshoreBootcamper\Desktop\Tamer\Tamer\bin\System.Web.WebPages.Deployment.dll
+C:\Users\OnshoreBootcamper\Desktop\Tamer\Tamer\bin\System.Web.WebPages.dll
+C:\Users\OnshoreBootcamper\Desktop\Tamer\Tamer\bin\System.Web.WebPages.Razor.dll
+C:\Users\OnshoreBootcamper\Desktop\Tamer\Tamer\bin\WebActivatorEx.dll
+C:\Users\OnshoreBootcamper\Desktop\Tamer\Tamer\bin\WebGrease.dll
+C:\Users\OnshoreBootcamper\Desktop\Tamer\Tamer\bin\ApplicationLogger.pdb
+C:\Users\OnshoreBootcamper\Desktop\Tamer\Tamer\bin\BLL.pdb
+C:\Users\OnshoreBootcamper\Desktop\Tamer\Tamer\bin\DAL.pdb
+C:\Users\OnshoreBootcamper\Desktop\Tamer\Tamer\bin\Ninject.xml
+C:\Users\OnshoreBootcamper\Desktop\Tamer\Tamer\bin\Ninject.Web.Common.xml
+C:\Users\OnshoreBootcamper\Desktop\Tamer\Tamer\bin\Ninject.Web.Mvc.xml
+C:\Users\OnshoreBootcamper\Desktop\Tamer\Tamer\bin\Rhino.Mocks.xml
+C:\Users\OnshoreBootcamper\Desktop\Tamer\Tamer\bin\System.Web.Helpers.xml
+C:\Users\OnshoreBootcamper\Desktop\Tamer\Tamer\bin\System.Web.Mvc.xml
+C:\Users\OnshoreBootcamper\Desktop\Tamer\Tamer\bin\System.Web.Optimization.xml
+C:\Users\OnshoreBootcamper\Desktop\Tamer\Tamer\bin\System.Web.Razor.xml
+C:\Users\OnshoreBootcamper\Desktop\Tamer\Tamer\bin\System.Web.WebPages.xml
+C:\Users\OnshoreBootcamper\Desktop\Tamer\Tamer\bin\System.Web.WebPages.Deployment.xml
+C:\Users\OnshoreBootcamper\Desktop\Tamer\Tamer\bin\System.Web.WebPages.Razor.xml
+C:\Users\OnshoreBootcamper\Desktop\Tamer\Tamer\bin\Antlr3.Runtime.pdb
+C:\Users\OnshoreBootcamper\Desktop\Tamer\Tamer\bin\Newtonsoft.Json.xml
+C:\Users\OnshoreBootcamper\Desktop\Tamer\Tamer\bin\EntityFramework.xml
+C:\Users\OnshoreBootcamper\Desktop\Tamer\Tamer\bin\EntityFramework.SqlServer.xml
+C:\Users\OnshoreBootcamper\Desktop\Tamer\Tamer\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\OnshoreBootcamper\Desktop\Tamer\Tamer\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\OnshoreBootcamper\Desktop\Tamer\Tamer\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\OnshoreBootcamper\Desktop\Tamer\Tamer\bin\Microsoft.Owin.xml
+C:\Users\OnshoreBootcamper\Desktop\Tamer\Tamer\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\OnshoreBootcamper\Desktop\Tamer\Tamer\bin\Microsoft.Owin.Security.xml
+C:\Users\OnshoreBootcamper\Desktop\Tamer\Tamer\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\OnshoreBootcamper\Desktop\Tamer\Tamer\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\OnshoreBootcamper\Desktop\Tamer\Tamer\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\OnshoreBootcamper\Desktop\Tamer\Tamer\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\OnshoreBootcamper\Desktop\Tamer\Tamer\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\OnshoreBootcamper\Desktop\Tamer\Tamer\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\OnshoreBootcamper\Desktop\Tamer\Tamer\obj\Debug\Tamer.csprojResolveAssemblyReference.cache
+C:\Users\OnshoreBootcamper\Desktop\Tamer\Tamer\obj\Debug\Tamer.dll
+C:\Users\OnshoreBootcamper\Desktop\Tamer\Tamer\obj\Debug\Tamer.pdb

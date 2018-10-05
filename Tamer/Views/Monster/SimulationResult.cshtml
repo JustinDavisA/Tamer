@@ -1,0 +1,49 @@
+﻿@model Tamer.Models.MonsterViewModel
+
+@if (Session["LoggedIn"] == null)
+{
+    Response.Redirect("~/User/AccessDenied");
+}
+
+@{
+    ViewBag.Title = "SimulationResult";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1 class="center">We have a victor!</h1>
+
+<h2 class="center">- @Html.DisplayFor(model => Model.MonsterName) -</h2>
+
+<div>
+    <hr />
+    <dl class="dl-horizonta center">
+        
+        <dt>
+            @Html.DisplayNameFor(model => model.Health)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Health)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.AttackName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.AttackName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.AttackDamage)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.AttackDamage)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Back to List", "Index")
+</p>
